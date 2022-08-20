@@ -7,8 +7,7 @@ interface IButton {
     children: React.ReactNode
 }
 
-export const Button = memo(({isActive, onClickHandler, children}: IButton) => {
-    console.log('b')
+const Button = memo(({isActive, onClickHandler, children}: IButton) => {
     return (
         <button
             className={isActive
@@ -21,3 +20,7 @@ export const Button = memo(({isActive, onClickHandler, children}: IButton) => {
         </button>
     )
 })
+
+Button.displayName = 'Button';
+
+export default Button;

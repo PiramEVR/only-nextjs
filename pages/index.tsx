@@ -2,18 +2,24 @@ import type {GetStaticProps, NextPage} from 'next'
 import styles from '../styles/Home.module.css'
 import {IOptions, IPost} from "../types";
 import {useFilters} from "../hooks/useFilters";
-import {Input} from "../components/Input";
+import Input from "../components/Input";
 import {useCallback, useState} from "react";
-import {Button} from "../components/Button";
+import Button from "../components/Button";
 
 export const getStaticProps: GetStaticProps = async () => {
-    const res = await fetch('http://localhost:3000/api/posts')
-    const data = await res.json()
-    return {
-        props: {posts: data},
+    try{
+        const res = await fetch('http://localhost:3000/api/posts')
+        const data = await res.json()
+        return {
+            props: {posts: data},
+        }
+    } catch {
+        return {
+            props: {posts: null},
+        }
     }
-}
 
+}
 interface IHomeProps {
     posts: IPost[]
 }

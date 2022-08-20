@@ -6,7 +6,7 @@ interface IInput {
     onChangeHandler: (value: string) => void
 }
 
-export const Input = memo(({value, onChangeHandler}: IInput) => {
+const Input = memo(({value, onChangeHandler}: IInput) => {
     return (
         <input
             className={styles.input}
@@ -19,3 +19,7 @@ export const Input = memo(({value, onChangeHandler}: IInput) => {
         />
     )
 })
+
+Input.displayName = 'Input';
+
+export default Input;
