@@ -1,0 +1,11 @@
+.input{
+    padding: 10px;
+    border: 2px solid #bdbdbd;
+    border-radius: 0.25rem;
+    font-size: 20px ;
+    color: #212529;
+}
+
+.input:hover {
+    border: black 2px solid;
+}
