@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
-    "image": "https://img1.liveinternet.ru/images/attach/c/4/82/584/82584967_3749748_326441.jpg"
+    "title": "Продажи жестких дисков продолжают снижаться. Проблема в дешевеющих SSD и снижении общего спроса на электронику",
+    "description": "Похоже на то, что производители жестких дисков вскоре потеряют очень значительную часть рынка носителей информации. Продажи дисков проседают все сильнее — вероятно, спасти ситуацию может лишь повышение спроса на потребительские устройства. Но и здесь проблема — ведь все больше производителей ноутбуков и ПК переходят на SSD в качестве основного носителя информации. О том, насколько все плохо для производителей HDD — читайте под катом.",
+    "image": "https://habrastorage.org/r/w1560/webt/4m/4d/z4/4m4dz4wf9maiyv4qqkslj6kfcw8.jpeg"
   },
   {
     "id": 2,
-    "title": "qui est esse",
-    "description": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla",
-    "image":  "https://stihi.ru/pics/2017/12/11/6146.jpg"
+    "title": "Собираем бесшумный ПК без заморочек",
+    "description": "На Хабре уже много статей про сборку полностью бесшумных системников. Некоторые из них, например, эта или эта, создают впечатление, что бесшумный ПК (т.е. без кулеров) – это сложно, и лучше продолжить терпеть шум, чем так заморачиваться.",
+    "image":  "https://habrastorage.org/getpro/habr/upload_files/f62/b33/c39/f62b33c39820bb9754d29bbaf1a83cbe.png"
   },
   {
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "description": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut",
-    "image":  "https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/d/7/e/2/6a34-c729-4f81-9515-d3bed0950c54.jpg"
+    "title": "5 отличных мини-ПК для дома и офиса: новые устройства августа 2022 года",
+    "description": "Производители миниатюрных десктопов, несмотря на все проблемы электронной отрасли, продолжают выпускать интересные новые устройства. Среди них есть как относительно мощные, так и те, что позволяют лишь работать с документами и серфить. Но что те, что другие могут оказаться полезными для многих из нас. Понятно, что в подборку попали не все новинки, но если у вас есть собственный претендент для этого материала — пишите в комментариях, обсудим!",
+    "image":  "https://habrastorage.org/webt/27/g1/mn/27g1mnyif3nh-gcnubkjdjpy9ww.jpeg"
   },
   {
     "id": 4,
-    "title": "eum et est occaecati",
-    "description": "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
-    "image":  "https://happy-school.ru/_pu/1/04562202.jpg"
+    "title": "Все ниже и ниже: южнокорейские производители чипов для ОЗУ роняют цены на оперативную память",
+    "description": "Немногим более месяца назад мы писали о том, что оперативная память будет постепенно дешеветь — впрочем, как и SSD, видеокарты и прочие компоненты и системы. Причина — перепроизводство, падение спроса и еще несколько факторов. Как оказалось, цены на ОЗУ будут снижаться быстрее, чем прогнозировали аналитики. Причина — в массовой продаже складских запасов чипов DRAM южнокорейскими производителями.",
+    "image":  "https://habrastorage.org/webt/a-/6u/kh/a-6ukh7fk4imb7zp2zaoayydl-s.jpeg"
   },
   {
     "id": 5,
-    "title": "nesciunt quas odio",
-    "description": "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque",
-    "image":  "https://usercontent.jamendo.com/?type=album&id=398374&width=600&trackid=1452715"
+    "title": "Советские микропроцессоры. Заводы «Интеграл», «Микрон» и «Ангстрем». Что они могут сейчас?",
+    "description": "В апреле 2022 года правительство РФ подготовило предварительную концепцию нового нацпроекта в области радиоэлектроники. Согласно концепции, в ближайшее время планируется начать «реинжиниринг зарубежных решений и перенос их производства в РФ и Китай». Кроме того, уже в этом году РФ запустит производство техпроцесса 90 нм, а освоение 28 нм запланировано на 2030 год.",
+    "image":  "https://habrastorage.org/webt/fv/tq/es/fvtqesrkx70lowbf5nu7yl1wguo.jpeg"
   },
   {
     "id": 6,
-    "title": "dolorem eum magni eos aperiam quia",
-    "description": "ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid molestiae perspiciatis et ea nemo ab reprehenderit accusantium quas voluptate dolores velit et doloremque molestiae",
-    "image":  "https://cdn.youpic.com/medium/650555_7k8vqm1j3sv8mk3h947jnti5a1_977161.jpg"
+    "title": "Ноутбуки с гибкими экранами: реальные устройства и концепты, которые предлагают разные компании",
+    "description": "Несмотря на скептицизм ряда аналитиков, смартфоны с гибкими экранами все же получили свою часть рынка. Наиболее мощным игроком здесь проявила себя южнокорейская корпорация Samsung, которая с завидным постоянством продолжает поставлять новые и новые модели девайсов с гибкими экранами. И это несмотря на то, что первые обзоры ее первых устройств были не особо положительными.",
+    "image":  "https://habrastorage.org/webt/ha/x8/-_/hax8-_o4muyq-38e-rhqlsuussc.jpeg"
   },
   {
     "id": 7,
-    "title": "magnam facilis autem",
-    "description": "dolore placeat quibusdam ea quo vitae magni quis enim qui quis quo nemo aut saepe quidem repellat excepturi ut quia sunt ut sequi eos ea sed quas",
-    "image":  "https://i.pinimg.com/736x/b1/b6/e3/b1b6e3147433ac81c84440b18b4e07b5--amazing-photography-ocean-photography.jpg"
+    "title": "Кабель SATA как радиопередатчик — скрытая передача данных",
+    "description": "Передача информации с изолированного (air-gapped) компьютера — нетривиальная задача, поскольку он отключён от сети и обычно находится в отдельном помещении. Но это возможно по сторонним каналам. Например, съём электромагнитного излучения с видеокарты или с других компонентов на материнской плате, распознавание нажатий клавиш по звуку и др.",
+    "image":  "https://habrastorage.org/webt/kz/2z/e9/kz2ze9qau8ygwx84bgg4o5sojao.jpeg"
   },
   {
     "id": 8,
-    "title": "dolorem dolore est ipsam",
-    "description": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae",
-    "image":  "https://www.cuded.com/wp-content/uploads/2011/10/whisper600_600.jpg"
+    "title": "5 мини-ПК для дома и офиса: что предлагают производители в июле 2022 года",
+    "description": "На рынке появились или уже продаются (ну или вскоре начнут продаваться) новые модели мини-ПК, которые подходят для решения самых разных задач — от достаточно ресурсоемких тасков до офисной работы или каких-то DIY-проектов. В сегодняшней подборке — 5 моделей, на которые мы обратили внимание, но понятно, что на самом деле новинок больше. Поэтому, если у вас есть собственные предпочтения — предлагайте новые модели в комментариях, обсудим.",
+    "image":  "https://habrastorage.org/getpro/habr/post_images/aff/286/9e8/aff2869e80751350259e4d6074376260.jpg"
   },
   {
     "id": 9,
-    "title": "nesciunt iure omnis dolorem tempora et accusantium",
-    "description": "consectetur animi nesciunt iure dolore enim quia ad veniam autem ut quam aut nobis net est aut quod aut provident voluptas autem voluptas",
-    "image":  "https://images.jamendo.com/tracks/s1339/1339294/covers/1.600.jpg?du=1529926432"
+    "title": "Разгон процессоров Intel без индекса K: Core i3-12100, Core i5-12400 и Core i7-12700",
+    "description": "В этом обзоре процессоров Intel Alder Lake с блокировкой мы расскажем, как при помощи находящейся в разработке материнской платы MSI можно сделать процессоры текущего поколения гораздо быстрее. Например, Core i5-12400 может стать на 50% быстрее в играх, и мы покажем, как этого добиться.\n\nОдна из немногих проблем процессоров наподобие Core i3-12100, Core i5-12400 и Core i7-12700 заключается в том, что Intel заблокировала их, то есть увеличить их производительность при помощи разгона (оверклокинга) невозможно.",
+    "image":  "https://habrastorage.org/webt/78/wx/e2/78wxe2tqxn0kco7n2yiq6e3npnk.jpeg"
   },
   {
     "id": 10,
-    "title": "optio molestias id quia eum",
-    "description": "quo et expedita modi cum officia vel magni doloribus qui repudiandae vero nisi sit quos veniam quod sed accusamus veritatis error",
-    "image":  "https://fastly.4sqi.net/img/general/600x600/90531418_uVWqD_gap1KUJpj6bdV3yS2T7WyiiYUCKWySBLDmYdk.jpg"
+    "title": "Китай продолжает развивать индустрию производства электроники: компания SMIC поставляет на рынок 7-нм чипы",
+    "description": "На Хабре совсем недавно публиковалась новость о том, что китайская компания SMIC (Semiconductor Manufacturing International Corporation)выпускает 7-нм чипы, реверс инжиниринг которых показывает определенную схожесть китайских технологий с теми, что использует TSMC. Эта самая схожесть под большим вопросом, но в любом случае то, что китайская компания добилась возможности выпуска таких чипов — большой успех программы импортозамещения электронных компонентов Поднебесной. Да и сама по себе SMIC развивается чрезвычайно активно. Давайте посмотрим, как у SMIC обстоят дела и что там с этими 7-нм чипами.",
+    "image":  "https://habrastorage.org/r/w1560/getpro/habr/upload_files/215/85f/2e4/21585f2e458ec78f761d7973cacef49a.png"
   }
 ]
