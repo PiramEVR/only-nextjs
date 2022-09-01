@@ -7,7 +7,7 @@ import {useCallback, useState} from "react";
 import Button from "../components/Button";
 
 export const getStaticProps: GetStaticProps = async () => {
-    try{
+    try {
         const res = await fetch('http://localhost:3000/api/posts')
         const data = await res.json()
         return {
@@ -20,6 +20,7 @@ export const getStaticProps: GetStaticProps = async () => {
     }
 
 }
+
 interface IHomeProps {
     posts: IPost[]
 }
@@ -59,7 +60,7 @@ const Home: NextPage<IHomeProps> = ({posts}) => {
         }))
     }, [options.sort])
 
-    let processedPosts: IPost[] = useFilters(posts, options)
+    const processedPosts: IPost[] = useFilters(posts, options)
 
     return (
         <div className={styles.container}>

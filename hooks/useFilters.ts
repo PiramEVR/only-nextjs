@@ -1,23 +1,24 @@
 import {IOptions, IPost} from "../types";
+import {MutableRefObject, useMemo, useRef} from "react";
 
 export const useFilters = (posts: IPost[], options: IOptions) => {
-    let filteredPosts: IPost[] = [...posts]
 
-    if (options.filter.value) {
-        filteredPosts = filteredPosts.filter(({description}) => {
-            return description.toLowerCase().includes(options.filter.value)
-        })
-    }
-    if (options.sort === 'DESC') {
-        filteredPosts = filteredPosts.sort((a, b) => {
-            return b.id - a.id
-        })
-    } else {
-        filteredPosts = filteredPosts.sort((a, b) => {
-            return a.id - b.id
-        })
-    }
+    const filteredPosts = useRef<IPost[]>(posts)
 
-    return filteredPosts
+    filteredPosts.current = useMemo(() => {
+        return posts.filter(({description}) => {
+            return description.toLowerCase().includes(options.filter.value.toLowerCase());
+        })
+    }, [options.filter])
+
+    useMemo(() => {
+        if (options.sort === 'DESC') {
+            filteredPosts.current.sort((a, b) => b.id - a.id)
+        } else {
+            filteredPosts.current.sort((a, b) => a.id - b.id)
+        }
+    }, [options.sort])
+
+    return filteredPosts.current
 
 }
